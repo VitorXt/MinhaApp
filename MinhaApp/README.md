@@ -4,7 +4,7 @@ Sistema de Controle de Vendas em Console App usando .NET.
 
 ## Tecnologias Usadas
 
-- .NET 7.0
+- .NET 9.0
 - Console App
 - xUnit
 - Moq
@@ -16,15 +16,15 @@ Sistema de Controle de Vendas em Console App usando .NET.
 
 - Cadastro de Produtos
 - Cadastro de Cliente
-- CriaÁ„o de Vendas
-- AtualizaÁ„o de Estoque
-- Testes Unit·rios
+- Cria√ß√£o de Vendas
+- Atualiza√ß√£o de Estoque
+- Testes Unit√°rios
 
 ## Como Rodar
 
 1. Abra a solution `MinhaApp.sln`
 2. Defina o projeto Console como StartUp
-3. Rode a aplicaÁ„o!
+3. Rode a aplica√ß√£o!
 
 ## Como Rodar os Testes
 
